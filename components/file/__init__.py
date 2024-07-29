@@ -25,7 +25,7 @@ except ImportError:
 
 
 CODEOWNERS = ["@jesserockz"]
-DOMAIN = "file"
+DOMAIN = "files"
 MULTI_CONF = True
 
 TYPE_LOCAL = "local"
